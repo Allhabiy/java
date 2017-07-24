@@ -11,11 +11,6 @@ extendedClass
 - s3563242 - Richard Kuoch
 - s3572290 - Tim Novice
 
-### Tutorial
-**Tutor:** Homy Ash (amirhomayoon.ashrafzadeh@rmit.edu.au)
-
-**Time:** Friday 12:30p 012.11.019
-
 ### Important Links
 **GitHub:** https://github.com/krismania/se-pt-a1
 
